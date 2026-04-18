@@ -1,0 +1,5 @@
+{
+  "subject": { "type": "agent", "id": "mcp-client", "attributes": {"role": "developer"} },
+  "request": { "action": "deploy", "resource": "backend", "environment": "dev", "attributes": {"tests_passed": "true"} },
+  "data_classification": "internal"
+}
